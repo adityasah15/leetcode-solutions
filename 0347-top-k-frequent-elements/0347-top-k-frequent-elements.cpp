@@ -14,9 +14,10 @@ public:
             if (k == 0)
                 break;
             if (!bucket[i].empty()) {
-                for (int n : bucket[i]) {
-                    ans.push_back(n);
-                    k--;
+                for (int num : bucket[i]) {
+                    ans.push_back(num);
+                    if (--k == 0)
+                        return ans;
                 }
             }
         }
