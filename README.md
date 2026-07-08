@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/adityasah15/neetcode-150/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/adityasah15/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/adityasah15/neetcode-150/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasah15/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/adityasah15/neetcode-150/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityasah15/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/adityasah15/neetcode-150/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adityasah15/neetcode-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasah15/neetcode-150/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/adityasah15/neetcode-150/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasah15/neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/adityasah15/neetcode-150/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adityasah15/neetcode-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasah15/neetcode-150/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasah15/neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasah15/neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/adityasah15/neetcode-150/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/adityasah15/neetcode-150/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasah15/neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
