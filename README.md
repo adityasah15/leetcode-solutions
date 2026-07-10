@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/adityasah15/neetcode-150/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/adityasah15/neetcode-150/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adityasah15/neetcode-150/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/adityasah15/neetcode-150/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/adityasah15/neetcode-150/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasah15/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasah15/neetcode-150/tree/master/0128-longest-consecutive-sequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/adityasah15/neetcode-150/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasah15/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/adityasah15/neetcode-150/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
