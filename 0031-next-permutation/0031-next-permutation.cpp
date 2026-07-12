@@ -1,9 +1,8 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int n = nums.size();
         int toswap = -1;
-        for (int i = n - 1; i > 0; i--) {
+        for (int i = nums.size() - 1; i > 0; i--) {
             if (nums[i - 1] < nums[i]) {
                 toswap = i - 1;
                 break;
@@ -12,7 +11,7 @@ public:
         if (toswap == -1) {
             return reverse(nums.begin(), nums.end());
         }
-        for (int i = n - 1; i > toswap; i--) {
+        for (int i = nums.size() - 1; i > toswap; i--) {
             if (nums[i] > nums[toswap]) {
                 swap(nums[toswap], nums[i]);
                 break;
