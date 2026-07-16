@@ -1,5 +1,5 @@
 # Leetcode solutions 
-A collection of LeetCode questions to ace the coding interview!
+C++ LeetCode solutions, organized by topic.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
