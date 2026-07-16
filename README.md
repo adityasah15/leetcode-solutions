@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasah15/neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/adityasah15/neetcode-150/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adityasah15/neetcode-150/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/adityasah15/neetcode-150/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasah15/neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityasah15/neetcode-150/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
