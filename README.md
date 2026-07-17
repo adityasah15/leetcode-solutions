@@ -9,6 +9,7 @@ C++ LeetCode solutions, organized by topic.
 | [0001-two-sum](https://github.com/adityasah15/neetcode-150/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/adityasah15/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adityasah15/neetcode-150/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityasah15/neetcode-150/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/adityasah15/neetcode-150/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adityasah15/neetcode-150/tree/master/0049-group-anagrams) |
@@ -139,6 +140,7 @@ C++ LeetCode solutions, organized by topic.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityasah15/neetcode-150/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasah15/neetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/adityasah15/neetcode-150/tree/master/0704-binary-search) |
