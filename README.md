@@ -29,6 +29,7 @@ C++ LeetCode solutions, organized by topic.
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adityasah15/neetcode-150/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/adityasah15/neetcode-150/tree/master/0875-koko-eating-bananas) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -153,6 +154,7 @@ C++ LeetCode solutions, organized by topic.
 | [0287-find-the-duplicate-number](https://github.com/adityasah15/neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adityasah15/neetcode-150/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/adityasah15/neetcode-150/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
