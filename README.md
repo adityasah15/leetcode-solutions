@@ -31,6 +31,7 @@ C++ LeetCode solutions, organized by topic.
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adityasah15/neetcode-150/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityasah15/neetcode-150/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasah15/neetcode-150/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -159,6 +160,7 @@ C++ LeetCode solutions, organized by topic.
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adityasah15/neetcode-150/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityasah15/neetcode-150/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasah15/neetcode-150/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
