@@ -177,6 +177,7 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adityasah15/neetcode-150/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/adityasah15/neetcode-150/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasah15/neetcode-150/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
