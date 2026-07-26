@@ -31,6 +31,7 @@ C++ LeetCode solutions, organized by topic.
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/adityasah15/neetcode-150/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/adityasah15/neetcode-150/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityasah15/neetcode-150/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasah15/neetcode-150/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -60,6 +61,7 @@ C++ LeetCode solutions, organized by topic.
 | [0217-contains-duplicate](https://github.com/adityasah15/neetcode-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityasah15/neetcode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -143,6 +145,7 @@ C++ LeetCode solutions, organized by topic.
 | ------- |
 | [0048-rotate-image](https://github.com/adityasah15/neetcode-150/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/adityasah15/neetcode-150/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
