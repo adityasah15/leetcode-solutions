@@ -64,6 +64,7 @@ C++ LeetCode solutions, organized by topic.
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityasah15/neetcode-150/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adityasah15/neetcode-150/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -98,6 +99,7 @@ C++ LeetCode solutions, organized by topic.
 | [0242-valid-anagram](https://github.com/adityasah15/neetcode-150/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasah15/neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityasah15/neetcode-150/tree/master/0567-permutation-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adityasah15/neetcode-150/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,4 +200,8 @@ C++ LeetCode solutions, organized by topic.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityasah15/neetcode-150/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/adityasah15/neetcode-150/tree/master/0206-reverse-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adityasah15/neetcode-150/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
