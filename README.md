@@ -28,6 +28,7 @@ C++ LeetCode solutions, organized by topic.
 | [0189-rotate-array](https://github.com/adityasah15/neetcode-150/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adityasah15/neetcode-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/adityasah15/neetcode-150/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adityasah15/neetcode-150/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityasah15/neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/adityasah15/neetcode-150/tree/master/0410-split-array-largest-sum) |
@@ -114,6 +115,7 @@ C++ LeetCode solutions, organized by topic.
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityasah15/neetcode-150/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/adityasah15/neetcode-150/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adityasah15/neetcode-150/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -144,6 +146,7 @@ C++ LeetCode solutions, organized by topic.
 | [0036-valid-sudoku](https://github.com/adityasah15/neetcode-150/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/adityasah15/neetcode-150/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/adityasah15/neetcode-150/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adityasah15/neetcode-150/tree/master/0240-search-a-2d-matrix-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -176,6 +179,7 @@ C++ LeetCode solutions, organized by topic.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasah15/neetcode-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityasah15/neetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adityasah15/neetcode-150/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityasah15/neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/adityasah15/neetcode-150/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0540-single-element-in-a-sorted-array) |
