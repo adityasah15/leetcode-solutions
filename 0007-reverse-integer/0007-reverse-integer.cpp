@@ -8,7 +8,7 @@ public:
             neg = true;
             x = -1 * x;
         }
-        long long ans = 0;
+        int ans = 0;
         while (x > 0) {
             int last = x % 10;
             if (ans <= INT_MAX / 10) {
