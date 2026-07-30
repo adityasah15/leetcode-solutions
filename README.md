@@ -148,6 +148,7 @@ C++ LeetCode solutions, organized by topic.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/adityasah15/neetcode-150/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/adityasah15/neetcode-150/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/adityasah15/neetcode-150/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
