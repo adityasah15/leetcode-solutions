@@ -9,8 +9,10 @@ public:
                 j--;
             if (tolower(s[i]) != tolower(s[j]))
                 return false;
-            i++;
-            j--;
+            else {
+                i++;
+                j--;
+            }
         }
         return true;
     }
