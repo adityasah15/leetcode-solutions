@@ -3,8 +3,14 @@ public:
     int findMin(vector<int>& nums) {
         int low = 0, high = nums.size() - 1;
         int mini = INT_MAX;
+
         while (low <= high) {
+            if (nums[low] <= nums[high]) {
+                return min(mini, nums[low]);
+            }
+
             int mid = low + (high - low) / 2;
+
             if (nums[low] <= nums[mid]) {
                 mini = min(mini, nums[low]);
                 low = mid + 1;
