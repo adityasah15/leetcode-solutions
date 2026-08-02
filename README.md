@@ -36,6 +36,7 @@ C++ LeetCode solutions, organized by topic.
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/adityasah15/neetcode-150/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityasah15/neetcode-150/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/adityasah15/neetcode-150/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityasah15/neetcode-150/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasah15/neetcode-150/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -77,6 +78,7 @@ C++ LeetCode solutions, organized by topic.
 | [0118-pascals-triangle](https://github.com/adityasah15/neetcode-150/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasah15/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/adityasah15/neetcode-150/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/adityasah15/neetcode-150/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +160,7 @@ C++ LeetCode solutions, organized by topic.
 | [0048-rotate-image](https://github.com/adityasah15/neetcode-150/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/adityasah15/neetcode-150/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/adityasah15/neetcode-150/tree/master/0877-stone-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -212,4 +215,8 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adityasah15/neetcode-150/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adityasah15/neetcode-150/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
