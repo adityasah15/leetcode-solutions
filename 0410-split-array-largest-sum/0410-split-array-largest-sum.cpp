@@ -1,26 +1,25 @@
 class Solution {
 public:
-    int possible(vector<int>& nums, int k, long long maxsize) {
-        long long currsize = 0;
-        int grp = 1;
-        for (int num : nums) {
-            if (currsize + num > maxsize) {
-                currsize = num;
-                grp++;
+    bool possible(vector<int>& nums, int k, int maxpgs) {
+        int parts = 1;
+        int totalpgs = 0;
+        for (int pgs : nums) {
+            if (totalpgs + pgs <= maxpgs) {
+                totalpgs += pgs;
             } else {
-                currsize += num;
+                parts++;
+                totalpgs = pgs;
             }
-            if (grp > k)
+            if (parts > k)
                 return false;
         }
         return true;
     }
-
     int splitArray(vector<int>& nums, int k) {
-        long long low = *max_element(nums.begin(), nums.end());
-        long long high = accumulate(nums.begin(), nums.end(), 0LL);
+        int low = *max_element(nums.begin(), nums.end());
+        int high = accumulate(nums.begin(), nums.end(), 0);
         while (low <= high) {
-            long long mid = low + (high - low) / 2;
+            int mid = low + (high - low) / 2;
             if (possible(nums, k, mid)) {
                 high = mid - 1;
             } else {
