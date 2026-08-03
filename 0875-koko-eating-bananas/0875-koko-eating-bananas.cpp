@@ -1,17 +1,17 @@
 class Solution {
 public:
-    bool possible(vector<int>& piles, int h, int mid) {
-        int totalhrs = 0;
+    bool possible(vector<int>& piles, int h, int k) {
+        int totalHrs = 0;
         for (int pile : piles) {
-            totalhrs += (pile + mid - 1) / mid;
-            if (totalhrs > h)
+            totalHrs += (pile + k - 1) / k;
+            if (totalHrs > h) {
                 return false;
+            }
         }
         return true;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int low = 1;
-        int high = *max_element(piles.begin(), piles.end());
+        int low = 1, high = *max_element(piles.begin(), piles.end());
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (possible(piles, h, mid)) {
