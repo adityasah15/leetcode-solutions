@@ -1,8 +1,7 @@
 class Solution {
 public:
     bool possible(vector<int>& bloomDay, int m, int k, int mid) {
-        int cnt = 0;
-        int bouq = 0;
+        int cnt = 0, bouq = 0;
         for (int day : bloomDay) {
             if (day <= mid) {
                 cnt++;
@@ -13,14 +12,14 @@ public:
                 bouq++;
                 cnt = 0;
             }
-            if (bouq == m) {
+            if (bouq == m)
                 return true;
-            }
         }
         return false;
     }
+
     int minDays(vector<int>& bloomDay, int m, int k) {
-        if (bloomDay.size() < (long long)m * k)
+        if (bloomDay.size() < 1LL * m * k)
             return -1;
         int low = *min_element(bloomDay.begin(), bloomDay.end());
         int high = *max_element(bloomDay.begin(), bloomDay.end());
