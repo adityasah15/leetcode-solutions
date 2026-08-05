@@ -165,6 +165,7 @@ C++ LeetCode solutions, organized by topic.
 | ------- |
 | [0007-reverse-integer](https://github.com/adityasah15/neetcode-150/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/adityasah15/neetcode-150/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/adityasah15/neetcode-150/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/adityasah15/neetcode-150/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/adityasah15/neetcode-150/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
@@ -219,6 +220,7 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityasah15/neetcode-150/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/adityasah15/neetcode-150/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/adityasah15/neetcode-150/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/adityasah15/neetcode-150/tree/master/0509-fibonacci-number) |
 ## Counting Sort
