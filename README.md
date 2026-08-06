@@ -170,6 +170,7 @@ C++ LeetCode solutions, organized by topic.
 | [0509-fibonacci-number](https://github.com/adityasah15/neetcode-150/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/adityasah15/neetcode-150/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/adityasah15/neetcode-150/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasah15/neetcode-150/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -235,4 +236,8 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityasah15/neetcode-150/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/adityasah15/neetcode-150/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
