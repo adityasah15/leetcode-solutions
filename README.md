@@ -28,6 +28,7 @@ C++ LeetCode solutions, organized by topic.
 | [0169-majority-element](https://github.com/adityasah15/neetcode-150/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityasah15/neetcode-150/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adityasah15/neetcode-150/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/adityasah15/neetcode-150/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/adityasah15/neetcode-150/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityasah15/neetcode-150/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityasah15/neetcode-150/tree/master/0287-find-the-duplicate-number) |
@@ -70,6 +71,7 @@ C++ LeetCode solutions, organized by topic.
 | [0088-merge-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityasah15/neetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityasah15/neetcode-150/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/adityasah15/neetcode-150/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityasah15/neetcode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +101,7 @@ C++ LeetCode solutions, organized by topic.
 | [0142-linked-list-cycle-ii](https://github.com/adityasah15/neetcode-150/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/adityasah15/neetcode-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityasah15/neetcode-150/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/adityasah15/neetcode-150/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityasah15/neetcode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasah15/neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
@@ -144,6 +147,7 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityasah15/neetcode-150/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityasah15/neetcode-150/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -254,4 +258,8 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/adityasah15/neetcode-150/tree/master/0912-sort-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/adityasah15/neetcode-150/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
