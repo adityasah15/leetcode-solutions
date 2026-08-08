@@ -10,6 +10,7 @@ C++ LeetCode solutions, organized by topic.
 | [0015-3sum](https://github.com/adityasah15/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/adityasah15/neetcode-150/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityasah15/neetcode-150/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/adityasah15/neetcode-150/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/adityasah15/neetcode-150/tree/master/0048-rotate-image) |
@@ -197,6 +198,7 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityasah15/neetcode-150/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasah15/neetcode-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
