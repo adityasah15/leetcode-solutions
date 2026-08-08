@@ -1,37 +1,34 @@
 class Solution {
 public:
-    int lowerBound(vector<int>& nums, int target) {
-        int n = nums.size();
-        int l = 0, h = n - 1;
-        while (l <= h) {
-            int mid = l + (h - l) / 2;
+    int lowerbound(vector<int>& nums, int target) {
+        int low = 0, high = nums.size() - 1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
             if (nums[mid] >= target) {
-                h = mid - 1;
+                high = mid - 1;
             } else {
-                l = mid + 1;
+                low = mid + 1;
             }
         }
-        return l;
+        return low;
     }
-    int upperBound(vector<int>& nums, int target) {
-        int n = nums.size();
-        int l = 0, h = n - 1;
-        while (l <= h) {
-            int mid = l + (h - l) / 2;
+    int upperbound(vector<int>& nums, int target) {
+        int low = 0, high = nums.size() - 1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
             if (nums[mid] > target) {
-                h = mid - 1;
+                high = mid - 1;
             } else {
-                l = mid + 1;
+                low = mid + 1;
             }
         }
-        return l;
+        return low;
     }
-
     vector<int> searchRange(vector<int>& nums, int target) {
-        int first = lowerBound(nums, target);
+        int first = lowerbound(nums, target);
         if (first == nums.size() || nums[first] != target) {
             return {-1, -1};
         }
-        return {first, upperBound(nums, target) - 1};
+        return {first, upperbound(nums, target) - 1};
     }
 };
