@@ -19,6 +19,7 @@ C++ LeetCode solutions, organized by topic.
 | [0056-merge-intervals](https://github.com/adityasah15/neetcode-150/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/adityasah15/neetcode-150/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityasah15/neetcode-150/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/adityasah15/neetcode-150/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasah15/neetcode-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/adityasah15/neetcode-150/tree/master/0118-pascals-triangle) |
@@ -213,6 +214,7 @@ C++ LeetCode solutions, organized by topic.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adityasah15/neetcode-150/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/adityasah15/neetcode-150/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -264,4 +266,8 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/adityasah15/neetcode-150/tree/master/0229-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/adityasah15/neetcode-150/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
