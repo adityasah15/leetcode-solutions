@@ -86,6 +86,7 @@ C++ LeetCode solutions, organized by topic.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityasah15/neetcode-150/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/adityasah15/neetcode-150/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/adityasah15/neetcode-150/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityasah15/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +116,7 @@ C++ LeetCode solutions, organized by topic.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasah15/neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/adityasah15/neetcode-150/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adityasah15/neetcode-150/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/adityasah15/neetcode-150/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/adityasah15/neetcode-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adityasah15/neetcode-150/tree/master/0242-valid-anagram) |
@@ -273,7 +275,12 @@ C++ LeetCode solutions, organized by topic.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityasah15/neetcode-150/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/adityasah15/neetcode-150/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityasah15/neetcode-150/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/adityasah15/neetcode-150/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adityasah15/neetcode-150/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
