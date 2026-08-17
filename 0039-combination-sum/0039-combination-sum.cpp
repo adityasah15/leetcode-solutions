@@ -3,11 +3,12 @@ public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
         vector<int> ds;
-        findCombinations(0, target, ds, ans, candidates);
+        solve(0, target, ds, ans, candidates);
         return ans;
     }
 
-    void findCombinations(int i, int target, vector<int>& ds, vector<vector<int>>& ans, vector<int>& candidates) {
+    void solve(int i, int target, vector<int>& ds, vector<vector<int>>& ans,
+               vector<int>& candidates) {
         if (target == 0) {
             ans.push_back(ds);
             return;
@@ -17,9 +18,9 @@ public:
         }
         if (candidates[i] <= target) {
             ds.push_back(candidates[i]);
-            findCombinations(i, target - candidates[i], ds, ans, candidates);
+            solve(i, target - candidates[i], ds, ans, candidates);
             ds.pop_back();
         }
-        return findCombinations(i + 1, target, ds, ans, candidates);
+        return solve(i + 1, target, ds, ans, candidates);
     }
 };
