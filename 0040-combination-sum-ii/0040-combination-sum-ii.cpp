@@ -7,20 +7,22 @@ public:
         findCombinations(0, target, candidates, ds, ans);
         return ans;
     }
-    void findCombinations(int idx, int target, vector<int>& candidates, vector<int>& ds, vector<vector<int>>& ans) {
+    void findCombinations(int i, int target, vector<int>& candidates,
+                          vector<int>& ds, vector<vector<int>>& ans) {
         if (target == 0) {
             ans.push_back(ds);
             return;
         }
-        for (int i = idx; i < candidates.size(); i++) {
-            if (i > idx && candidates[i] == candidates[i - 1]) {
-                continue;
-            }
-            if (candidates[i] > target)
-                return;
-            ds.push_back(candidates[i]);
-            findCombinations(i + 1, target - candidates[i], candidates, ds, ans);
-            ds.pop_back();
+        if (i == candidates.size() || candidates[i] > target) {
+            return;
         }
+        ds.push_back(candidates[i]);
+        findCombinations(i + 1, target - candidates[i], candidates, ds, ans);
+        ds.pop_back();
+        while (i + 1 < candidates.size() &&
+               candidates[i + 1] == candidates[i]) {
+            i++;
+        }
+        findCombinations(i + 1, target, candidates, ds, ans);
     }
 };
