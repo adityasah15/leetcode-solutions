@@ -6,7 +6,6 @@ public:
         solve(0, target, ds, ans, candidates);
         return ans;
     }
-
     void solve(int i, int target, vector<int>& ds, vector<vector<int>>& ans,
                vector<int>& candidates) {
         if (target == 0) {
@@ -21,6 +20,6 @@ public:
             solve(i, target - candidates[i], ds, ans, candidates);
             ds.pop_back();
         }
-        return solve(i + 1, target, ds, ans, candidates);
+        solve(i + 1, target, ds, ans, candidates);
     }
 };
