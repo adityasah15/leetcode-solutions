@@ -15,7 +15,7 @@ public:
         return false;
     }
     bool solve(int i, int j, int idx, vector<vector<char>>& board,
-               string word) {
+               string& word) {
         if (idx == word.size()) {
             return true;
         }
