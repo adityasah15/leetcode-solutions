@@ -42,6 +42,7 @@ C++ LeetCode solutions, organized by topic.
 | [0287-find-the-duplicate-number](https://github.com/adityasah15/neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/adityasah15/neetcode-150/tree/master/0410-split-array-largest-sum) |
+| [0491-non-decreasing-subsequences](https://github.com/adityasah15/neetcode-150/tree/master/0491-non-decreasing-subsequences) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityasah15/neetcode-150/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/adityasah15/neetcode-150/tree/master/0704-binary-search) |
@@ -115,6 +116,7 @@ C++ LeetCode solutions, organized by topic.
 | [0242-valid-anagram](https://github.com/adityasah15/neetcode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adityasah15/neetcode-150/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityasah15/neetcode-150/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/adityasah15/neetcode-150/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/adityasah15/neetcode-150/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -230,6 +232,7 @@ C++ LeetCode solutions, organized by topic.
 | [0078-subsets](https://github.com/adityasah15/neetcode-150/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adityasah15/neetcode-150/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityasah15/neetcode-150/tree/master/0287-find-the-duplicate-number) |
+| [0491-non-decreasing-subsequences](https://github.com/adityasah15/neetcode-150/tree/master/0491-non-decreasing-subsequences) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityasah15/neetcode-150/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
 |  |
@@ -293,6 +296,7 @@ C++ LeetCode solutions, organized by topic.
 | [0079-word-search](https://github.com/adityasah15/neetcode-150/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/adityasah15/neetcode-150/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/adityasah15/neetcode-150/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/adityasah15/neetcode-150/tree/master/0491-non-decreasing-subsequences) |
 ## Bracket Sequences
 |  |
 | ------- |
