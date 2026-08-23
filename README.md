@@ -13,6 +13,7 @@ C++ LeetCode solutions, organized by topic.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityasah15/neetcode-150/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityasah15/neetcode-150/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/adityasah15/neetcode-150/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/adityasah15/neetcode-150/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/adityasah15/neetcode-150/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityasah15/neetcode-150/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/adityasah15/neetcode-150/tree/master/0046-permutations) |
@@ -107,6 +108,7 @@ C++ LeetCode solutions, organized by topic.
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityasah15/neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityasah15/neetcode-150/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/adityasah15/neetcode-150/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/adityasah15/neetcode-150/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/adityasah15/neetcode-150/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/adityasah15/neetcode-150/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityasah15/neetcode-150/tree/master/0128-longest-consecutive-sequence) |
@@ -180,6 +182,7 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/adityasah15/neetcode-150/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/adityasah15/neetcode-150/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/adityasah15/neetcode-150/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/adityasah15/neetcode-150/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/adityasah15/neetcode-150/tree/master/0079-word-search) |
@@ -293,6 +296,7 @@ C++ LeetCode solutions, organized by topic.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityasah15/neetcode-150/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/adityasah15/neetcode-150/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/adityasah15/neetcode-150/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/adityasah15/neetcode-150/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityasah15/neetcode-150/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/adityasah15/neetcode-150/tree/master/0046-permutations) |
@@ -315,5 +319,10 @@ C++ LeetCode solutions, organized by topic.
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/adityasah15/neetcode-150/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/adityasah15/neetcode-150/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/adityasah15/neetcode-150/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
