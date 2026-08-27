@@ -1,36 +1,30 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        bool firstrow0 = false;
-        bool firstcol0 = false;
-        int m = matrix.size();    // row
-        int n = matrix[0].size(); // col
-
-        // firstrow
-        for (int i = 0; i < n; i++) {
-            if (matrix[0][i] == 0) {
-                firstrow0 = true;
+        bool fRow0 = false;
+        bool fCol0 = false;
+        int m = matrix.size();    // row size
+        int n = matrix[0].size(); // col size
+        for (int j = 0; j < n; j++) {
+            if (matrix[0][j] == 0) {
+                fRow0 = true;
                 break;
             }
         }
-
-        // firstcol
         for (int i = 0; i < m; i++) {
             if (matrix[i][0] == 0) {
-                firstcol0 = true;
+                fCol0 = true;
                 break;
             }
         }
-
         for (int i = 1; i < m; i++) {
             for (int j = 1; j < n; j++) {
                 if (matrix[i][j] == 0) {
-                    matrix[0][j] = 0;
                     matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
-
         for (int i = 1; i < m; i++) {
             for (int j = 1; j < n; j++) {
                 if (matrix[i][0] == 0 || matrix[0][j] == 0) {
@@ -38,14 +32,12 @@ public:
                 }
             }
         }
-
-        if (firstrow0) {
-            for (int i = 0; i < n; i++) {
-                matrix[0][i] = 0;
+        if (fRow0) {
+            for (int j = 0; j < n; j++) {
+                matrix[0][j] = 0;
             }
         }
-
-        if (firstcol0) {
+        if (fCol0) {
             for (int i = 0; i < m; i++) {
                 matrix[i][0] = 0;
             }
