@@ -336,4 +336,5 @@ C++ LeetCode solutions, organized by topic.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityasah15/neetcode-150/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adityasah15/neetcode-150/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
